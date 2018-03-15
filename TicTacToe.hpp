@@ -1,7 +1,7 @@
 #pragma once
 /*********************************************************************
 ** Author:		Billy R. Shelton
-** Date:		11/22/2016
+** Date:		3/15/2018
 ** Description: This is a header file which creates the class TicTacToe.  The
 class has 2 data members, an object constructed from the board class and a char
 which specifices the player turn.  The member functions are named but not defined
