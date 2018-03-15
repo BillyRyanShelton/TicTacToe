@@ -42,7 +42,7 @@ TicTacToe::TicTacToe(char firstMove)
 					void TicTacToe::play()
 ** Description:  This function starts the tic-tac-toe game.  It asks
 the correct player for their move and sends it to the board until someone
-has wor or it's a draw, and then declares what the outcome was.  
+has won or it's a draw, and then declares what the outcome was.  
 *********************************************************************/
 void TicTacToe::play()
 {
