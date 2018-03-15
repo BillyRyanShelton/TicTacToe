@@ -1,7 +1,7 @@
 #pragma once
 /*********************************************************************
 ** Author:		Billy R. Shelton
-** Date:		11/22/2016
+** Date:		3/15/2018
 ** Description: This is a header file which creates the class Board.  The
 class has 1 data member which is a 3x3 array. The member functions are named
 but not defined here.  The purpose of this file, the Board.cpp file, the 
